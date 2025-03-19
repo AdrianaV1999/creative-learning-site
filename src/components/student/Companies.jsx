@@ -8,7 +8,7 @@ import sketch from "../../assets/sketch.png";
 const Companies = () => {
   return (
     <div className="pt-16">
-      <p className="text-base text-gray-500">You will learn</p>
+      <p className="text-base text-gray-500">Unlock your creativity with</p>
       <div className="flex flex-wrap items-center justify-center gap-6 md:gap-16 md:mt-10 mt-5">
         <img src={figma} alt="Figma" className="w-20 md:w-28" />
         <img src={canva} alt="Canva" className="w-20 md:w-28" />
