@@ -1,5 +1,4 @@
 import logo from "./logo.svg";
-import logo_dark from "./logo_dark.svg";
 import search_icon from "./search_icon.svg";
 import cross_icon from "./cross_icon.svg";
 import upload_area from "./upload_area.svg";
@@ -18,6 +17,7 @@ import star_blank from "./star_dull_icon.svg";
 import profile_img_1 from "./profile_img_1.png";
 import profile_img_2 from "./profile_img_2.png";
 import profile_img_3 from "./profile_img_3.png";
+import profile_img_4 from "./profile_img_4.png";
 import arrow_icon from "./arrow_icon.svg";
 import down_arrow_icon from "./down_arrow_icon.svg";
 import time_left_clock_icon from "./time_left_clock_icon.svg";
@@ -47,7 +47,6 @@ import course2 from "./courser5.png";
 import course3 from "./course2.jpg";
 
 export const assets = {
-  logo,
   search_icon,
   sketch,
   microsoft_logo,
@@ -68,7 +67,6 @@ export const assets = {
   dropdown_icon,
   cross_icon,
   upload_area,
-  logo_dark,
   down_arrow_icon,
   time_left_clock_icon,
   time_clock_icon,
@@ -88,6 +86,7 @@ export const assets = {
   profile_img,
   profile_img2,
   profile_img3,
+  profile_img_4,
   play_icon,
   blue_tick_icon,
   lesson_icon,
@@ -106,28 +105,36 @@ export const dummyEducatorData = {
 
 export const dummyTestimonial = [
   {
-    name: "Donald Jackman",
-    role: "SWE 1 @ Amazon",
+    name: "Peter Hemsworth",
+    role: "Figma Course",
     image: assets.profile_img_1,
     rating: 5,
     feedback:
-      "I've been using Imagify for nearly two years, primarily for Instagram, and it has been incredibly user-friendly, making my work much easier.",
+      "A comprehensive course that teaches you the essentials of UI/UX design with Figma. Great for beginners looking to dive into design tools with hands-on projects.",
   },
   {
-    name: "Richard Nelson",
-    role: "SWE 2 @ Samsung",
+    name: "Nina Miles",
+    role: "Blender Course",
     image: assets.profile_img_2,
     rating: 4,
     feedback:
-      "I've been using Imagify for nearly two years, primarily for Instagram, and it has been incredibly user-friendly, making my work much easier.",
+      "An amazing deep dive into 3D modeling with Blender. This course is perfect for beginners who want to get started with 3D design and animation without feeling overwhelmed.",
   },
   {
-    name: "James Washington",
-    role: "SWE 2 @ Google",
+    name: "James Smith",
+    role: "Canva Course",
     image: assets.profile_img_3,
     rating: 4.5,
     feedback:
-      "I've been using Imagify for nearly two years, primarily for Instagram, and it has been incredibly user-friendly, making my work much easier.",
+      "Perfect for anyone looking to create stunning designs quickly. The course covers everything from templates to custom branding, making it ideal for non-designers.",
+  },
+  {
+    name: "Anna Jacksn",
+    role: "Sketch Course",
+    image: assets.profile_img_4,
+    rating: 4.5,
+    feedback:
+      "A detailed course that walks you through Sketch, an essential tool for modern UI design. The lessons are perfect for those transitioning from other design software.",
   },
 ];
 
