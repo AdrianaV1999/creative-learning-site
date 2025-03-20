@@ -4,7 +4,7 @@ import logo from "../../assets/logo.png";
 const Footer = () => {
   return (
     <footer className="bg-purple-100 md:px-36 text-left w-full mt-10">
-      <div className="container mx-auto flex flex-col md:flex-row items-start px-8 md:px-0 justify-center gap-10 md:gap-32 py-10 border-b border-gray-300">
+      <div className="container mx-auto flex flex-col md:flex-row items-start px-8 md:px-0 justify-center gap-10 md:gap-36 py-10 border-b border-gray-300">
         <div className="flex flex-col md:items-start items-center w-full">
           <img
             src={logo}
@@ -33,6 +33,7 @@ const Footer = () => {
             </li>
           </ul>
         </div>
+
         <div className="hidden md:flex flex-col items-start w-full">
           <h2 className="font-semibold text-gray-800 mb-5">
             Subscribe to our newsletter

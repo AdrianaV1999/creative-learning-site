@@ -4,14 +4,16 @@ import { assets, dummyTestimonial } from "../../assets/assets";
 const TestimonialSection = () => {
   return (
     <div className="pb-14 container mx-auto">
-      <h2 className="text-3xl font-medium text-purple-800">Testimonials</h2>
+      <h2 className="text-xl md:text-4xl font-semibold text-purple-800">
+        Testimonials
+      </h2>
       <p className="md:text-base text-gray-500 mt-3">
         Discover how our services have made a difference for our clients. Their
         feedback speaks for itself.
       </p>
       {/* grid grid-cols-2 lg:grid-cols-4 px-4 md:px-0 md:my-16 my-10 gap-4 */}
 
-      <div className="grid grid-cols-1 lg:grid-cols-4 md:grid-cols-2 px-4 md:px-0 gap-4 mt-14">
+      <div className="grid grid-cols-1 lg:grid-cols-4 md:grid-cols-2 px-5 md:px-0 gap-4 mt-14">
         {dummyTestimonial.map((testimonial, index) => (
           <div
             key={index}
