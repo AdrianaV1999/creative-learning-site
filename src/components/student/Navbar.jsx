@@ -14,7 +14,7 @@ const Navbar = () => {
   return (
     <div>
       <div
-        className={`flex items-center justify-between px-4 sm:px-10 md:px-14 lg:px-36 border-b border-gray-400 py-4 ${
+        className={`flex items-center justify-between px-4 sm:px-10 md:px-20 lg:px-47 border-b border-gray-400 py-4 ${
           isCourseListPage ? "bg-white" : "bg-purple-100/70"
         }`}
       >
@@ -44,7 +44,7 @@ const Navbar = () => {
           ) : (
             <button
               onClick={() => openSignIn()}
-              className="bg-purple-800 text-white px-5 py-2 rounded-full"
+              className="bg-purple-800 text-white px-5 py-2 rounded-full hover:bg-purple-900 transition"
             >
               Create Account
             </button>
@@ -60,7 +60,7 @@ const Navbar = () => {
                     navigate("/educator");
                   }}
                 >
-                  {isEducator ? "Educator Daashboard" : "Become Educator"}
+                  {isEducator ? "Educator Dashboard" : "Become Educator"}
                 </button>
                 |<Link to="/my-enrollments">My Enrollments</Link>
               </>
