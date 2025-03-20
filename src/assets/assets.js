@@ -238,7 +238,7 @@ export const dummyCourses = [
     _id: "605c72efb3f1c2b1f8e4e1a1",
     courseTitle: "Introduction to Canva",
     courseDescription:
-      "<h2>Learn the Basics of Canva</h2><p>Canva is a powerful design tool that allows you to create stunning graphics with ease. In this course, you will learn the fundamentals of Canva, including layout design, typography, and image editing.</p><p>This course is perfect for beginners who want to start their journey in graphic design. By the end of this course, you will be able to create professional-looking designs for social media, presentations, and more.</p><ul><li>Understand the basics of graphic design</li>",
+      "<h2>Learn the Basics of Canva</h2><p>Canva is a powerful design tool that allows you to create stunning graphics with ease. In this course, you will learn the fundamentals of Canva, including layout design, typography, and image editing.</p><p>This course is perfect for beginners who want to start their journey in graphic design. By the end of this course, you will be able to create professional-looking designs for social media, presentations, and more.</p><ul>  <li>Understand the basics of graphic design</li> <li>Learn how to use Canva for creating custom designs</li> <li>Explore Canva’s templates, photo editing, and collaboration features</li></ul>",
     coursePrice: 49.99,
     isPublished: true,
     discount: 20,
