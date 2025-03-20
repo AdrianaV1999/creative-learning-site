@@ -105,7 +105,7 @@ export const dummyEducatorData = {
 
 export const dummyTestimonial = [
   {
-    name: "Peter Hemsworth",
+    name: "Peter Pelz",
     role: "Figma Course",
     image: assets.profile_img_1,
     rating: 5,

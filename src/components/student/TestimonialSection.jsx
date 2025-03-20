@@ -11,7 +11,7 @@ const TestimonialSection = () => {
       </p>
       {/* grid grid-cols-2 lg:grid-cols-4 px-4 md:px-0 md:my-16 my-10 gap-4 */}
 
-      <div className="grid grid-cols-2 lg:grid-cols-4 px-4 md:px-0 gap-4 mt-14">
+      <div className="grid grid-cols-1 lg:grid-cols-4 md:grid-cols-2 px-4 md:px-0 gap-4 mt-14">
         {dummyTestimonial.map((testimonial, index) => (
           <div
             key={index}
