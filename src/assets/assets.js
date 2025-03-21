@@ -252,8 +252,7 @@ export const dummyCourses = [
             lectureId: "lecture1",
             lectureTitle: "What is Canva?",
             lectureDuration: 16,
-            lectureUrl:
-              "https://www.youtube.com/watch?v=ipvofYQDgBA&pp=ygUNd2hhdCBpcyBjYW52YQ%3D%3D",
+            lectureUrl: "https://youtu.be/ipvofYQDgBA",
             isPreviewFree: true,
             lectureOrder: 1,
           },
@@ -261,8 +260,7 @@ export const dummyCourses = [
             lectureId: "lecture2",
             lectureTitle: "Setting Up Your Environment",
             lectureDuration: 19,
-            lectureUrl:
-              "https://www.youtube.com/watch?v=wCEtWz5imUs&pp=ygUTaG93IGRvZXMgY2FudmEgd29yaw%3D%3D",
+            lectureUrl: "https://youtu.be/wCEtWz5imUs",
             isPreviewFree: false,
             lectureOrder: 2,
           },
@@ -277,8 +275,7 @@ export const dummyCourses = [
             lectureId: "lecture3",
             lectureTitle: "Text and Fonts",
             lectureDuration: 20,
-            lectureUrl:
-              "https://youtu.be/inZ7qIn74TE?list=PL2jU5A3fxwC9Q6F64qOBs2FWKbMJLOlGO",
+            lectureUrl: "https://youtu.be/inZ7qIn74TE",
             isPreviewFree: true,
             lectureOrder: 1,
           },
@@ -286,8 +283,7 @@ export const dummyCourses = [
             lectureId: "lecture4",
             lectureTitle: "Creating Layouts and Templates",
             lectureDuration: 10,
-            lectureUrl:
-              "https://www.youtube.com/watch?v=SmoHonxUkiQ&pp=ygUTbGF5b3V0IGRlc2lnbiBjYW52YQ%3D%3D",
+            lectureUrl: "https://youtu.be/SmoHonxUkiQ",
             isPreviewFree: false,
             lectureOrder: 2,
           },
@@ -330,8 +326,7 @@ export const dummyCourses = [
             lectureId: " lecture1",
             lectureTitle: "What is Figma?",
             lectureDuration: 720,
-            lectureUrl:
-              "https://youtu.be/Cx2dkpBxst8?list=PLXDU_eVOJTx7QHLShNqIXL1Cgbxj7HlN4",
+            lectureUrl: "https://youtu.be/Cx2dkpBxst8",
             isPreviewFree: true,
             lectureOrder: 1,
           },
@@ -339,8 +334,7 @@ export const dummyCourses = [
             lectureId: "lecture2",
             lectureTitle: "Explore ideas",
             lectureDuration: 850,
-            lectureUrl:
-              "https://youtu.be/dXQ7IHkTiMM?list=PLXDU_eVOJTx7QHLShNqIXL1Cgbxj7HlN4",
+            lectureUrl: "https://youtu.be/dXQ7IHkTiMM",
             isPreviewFree: false,
             lectureOrder: 2,
           },
@@ -355,8 +349,7 @@ export const dummyCourses = [
             lectureId: "lecture3",
             lectureTitle: "Create Designs",
             lectureDuration: 900,
-            lectureUrl:
-              "https://youtu.be/wvFd-z7jSaA?list=PLXDU_eVOJTx7QHLShNqIXL1Cgbxj7HlN4",
+            lectureUrl: "https://youtu.be/wvFd-z7jSaA",
             isPreviewFree: true,
             lectureOrder: 1,
           },
@@ -364,8 +357,7 @@ export const dummyCourses = [
             lectureId: "lecture4",
             lectureTitle: "Build Prototypes",
             lectureDuration: 950,
-            lectureUrl:
-              "https://youtu.be/lTIeZ2ahEkQ?list=PLXDU_eVOJTx7QHLShNqIXL1Cgbxj7HlN4",
+            lectureUrl: "https://youtu.be/lTIeZ2ahEkQ",
             isPreviewFree: false,
             lectureOrder: 2,
           },
@@ -407,8 +399,7 @@ export const dummyCourses = [
             lectureId: "lecture1",
             lectureTitle: "What is Sketch?",
             lectureDuration: 10,
-            lectureUrl:
-              "https://youtu.be/fndq5vWZTy8?list=PLLnpHn493BHE6UIsdKYlS5zu-ZYvx22CS",
+            lectureUrl: "https://youtu.be/fndq5vWZTy8",
             isPreviewFree: true,
             lectureOrder: 1,
           },
@@ -416,8 +407,7 @@ export const dummyCourses = [
             lectureId: "lecture2",
             lectureTitle: "Understanding Artboards",
             lectureDuration: 18,
-            lectureUrl:
-              "https://youtu.be/A-0xWk6BFq4?list=PLLnpHn493BHE6UIsdKYlS5zu-ZYvx22CS",
+            lectureUrl: "https://youtu.be/A-0xWk6BFq4",
             isPreviewFree: false,
             lectureOrder: 2,
           },
@@ -432,8 +422,7 @@ export const dummyCourses = [
             lectureId: "lecture3",
             lectureTitle: "Styling Shapes With the Inspector",
             lectureDuration: 15,
-            lectureUrl:
-              "https://youtu.be/w6-f2tzkCF8?list=PLLnpHn493BHE6UIsdKYlS5zu-ZYvx22CS",
+            lectureUrl: "https://youtu.be/w6-f2tzkCF8",
             isPreviewFree: true,
             lectureOrder: 1,
           },
@@ -441,8 +430,7 @@ export const dummyCourses = [
             lectureId: "lecture4",
             lectureTitle: "Using Text Styles",
             lectureDuration: 20,
-            lectureUrl:
-              "https://youtu.be/NN1_mz8PPoQ?list=PLLnpHn493BHE6UIsdKYlS5zu-ZYvx22CS",
+            lectureUrl: "https://youtu.be/NN1_mz8PPoQ",
             isPreviewFree: false,
             lectureOrder: 2,
           },
@@ -478,8 +466,7 @@ export const dummyCourses = [
             lectureId: "lecture1",
             lectureTitle: "Introduction to Adobe XD",
             lectureDuration: 700,
-            lectureUrl:
-              "https://youtu.be/j-XDG3AYTYE?list=PL4cUxeGkcC9hOQFhUxCE8z1aB3OpwKXaJ",
+            lectureUrl: "https://youtu.be/j-XDG3AYTYE",
             isPreviewFree: true,
             lectureOrder: 1,
           },
@@ -487,8 +474,7 @@ export const dummyCourses = [
             lectureId: "lecture2",
             lectureTitle: "The Adobe XD Interface",
             lectureDuration: 750,
-            lectureUrl:
-              "https://youtu.be/iR7QMjZvwx8?list=PL4cUxeGkcC9hOQFhUxCE8z1aB3OpwKXaJ",
+            lectureUrl: "https://youtu.be/iR7QMjZvwx8",
             isPreviewFree: false,
             lectureOrder: 2,
           },
@@ -503,8 +489,7 @@ export const dummyCourses = [
             lectureId: "lecture3",
             lectureTitle: "Artboads",
             lectureDuration: 800,
-            lectureUrl:
-              "https://youtu.be/rlgXfhS86DY?list=PL4cUxeGkcC9hOQFhUxCE8z1aB3OpwKXaJ",
+            lectureUrl: "https://youtu.be/rlgXfhS86DY",
             isPreviewFree: true,
             lectureOrder: 1,
           },
@@ -512,8 +497,7 @@ export const dummyCourses = [
             lectureId: "lecture4",
             lectureTitle: "Shapes",
             lectureDuration: 850,
-            lectureUrl:
-              "https://youtu.be/49UFHWPdw-I?list=PL4cUxeGkcC9hOQFhUxCE8z1aB3OpwKXaJ",
+            lectureUrl: "https://youtu.be/49UFHWPdw-I",
             isPreviewFree: false,
             lectureOrder: 2,
           },
@@ -613,8 +597,7 @@ export const dummyCourses = [
             lectureId: "lecture1",
             lectureTitle: "What is Photoshop?",
             lectureDuration: 600,
-            lectureUrl:
-              "https://youtu.be/xTzvQkOll2U?list=PLLlSBGLVsEPIFGSGw2zJ2K43V5vxMMMTE",
+            lectureUrl: "https://youtu.be/xTzvQkOll2U",
             isPreviewFree: true,
             lectureOrder: 1,
           },
@@ -622,8 +605,7 @@ export const dummyCourses = [
             lectureId: "lecture2",
             lectureTitle: "Create Stunning Visuals with Photoshop",
             lectureDuration: 720,
-            lectureUrl:
-              "https://www.youtube.com/watch?v=aNpO6G72O3w&list=PLLlSBGLVsEPIFGSGw2zJ2K43V5vxMMMTE&index=4&pp=iAQB",
+            lectureUrl: "https://youtu.be/aNpO6G72O3w",
             isPreviewFree: false,
             lectureOrder: 2,
           },
@@ -636,19 +618,17 @@ export const dummyCourses = [
         chapterContent: [
           {
             lectureId: "lecture3",
-            lectureTitle: "Photoshop Tips and Techniques for Designers",
+            lectureTitle: "Photoshop Tips and Techniques",
             lectureDuration: 800,
-            lectureUrl:
-              "https://www.youtube.com/watch?v=ok9cVCETDeE&list=PLLlSBGLVsEPIFGSGw2zJ2K43V5vxMMMTE&index=3&pp=iAQB",
+            lectureUrl: "https://youtu.be/ok9cVCETDeE",
             isPreviewFree: true,
             lectureOrder: 1,
           },
           {
             lectureId: "lecture4",
-            lectureTitle: "Transform Your Images with Photoshop",
+            lectureTitle: "Transform Your Images",
             lectureDuration: 850,
-            lectureUrl:
-              "https://www.youtube.com/watch?v=doI1eH_nCxs&list=PLLlSBGLVsEPIFGSGw2zJ2K43V5vxMMMTE&index=5&pp=iAQB",
+            lectureUrl: "https://youtu.be/doI1eH_nCxs",
             isPreviewFree: false,
             lectureOrder: 2,
           },
@@ -681,8 +661,7 @@ export const dummyCourses = [
             lectureId: "lecture1",
             lectureTitle: "Basics of Motion Graphics in After Effects",
             lectureDuration: 30,
-            lectureUrl:
-              "https://youtu.be/uRdfvpQ5rcQ?list=PLYfCBK8IplO77FDDLnS06qEMoVLD7Qyib",
+            lectureUrl: "https://youtu.be/uRdfvpQ5rcQ",
             isPreviewFree: true,
             lectureOrder: 1,
           },
@@ -690,8 +669,7 @@ export const dummyCourses = [
             lectureId: "lecture2",
             lectureTitle: "Keyframe Animation Techniques in After Effects",
             lectureDuration: 25,
-            lectureUrl:
-              "https://youtu.be/FuJMHF510mc?list=PLYfCBK8IplO77FDDLnS06qEMoVLD7Qyib",
+            lectureUrl: "https://youtu.be/FuJMHF510mc",
             isPreviewFree: false,
             lectureOrder: 2,
           },
@@ -707,8 +685,7 @@ export const dummyCourses = [
             lectureTitle:
               "Working with Layers and Compositions in After Effects",
             lectureDuration: 20,
-            lectureUrl:
-              "https://youtu.be/ijOQvj48nUE?list=PLYfCBK8IplO77FDDLnS06qEMoVLD7Qyib",
+            lectureUrl: "https://youtu.be/ijOQvj48nUE",
             isPreviewFree: true,
             lectureOrder: 1,
           },
@@ -716,8 +693,7 @@ export const dummyCourses = [
             lectureId: "lecture4",
             lectureTitle: "The Project Panel Links panel",
             lectureDuration: 25,
-            lectureUrl:
-              "https://youtu.be/GMnfNYLPWjw?list=PLYfCBK8IplO77FDDLnS06qEMoVLD7Qyib",
+            lectureUrl: "https://youtu.be/GMnfNYLPWjw",
             isPreviewFree: false,
             lectureOrder: 2,
           },
@@ -760,8 +736,7 @@ export const dummyCourses = [
             lectureId: "lecture1",
             lectureTitle: "What is Adobe Illustrator?",
             lectureDuration: 600,
-            lectureUrl:
-              "https://youtu.be/Ib8UBwu3yGA?list=PLgGbWId6zgaVUW5oKfqg6v-SihBo50dmB",
+            lectureUrl: "https://youtu.be/Ib8UBwu3yGA",
             isPreviewFree: true,
             lectureOrder: 1,
           },
@@ -769,8 +744,7 @@ export const dummyCourses = [
             lectureId: "lecture2",
             lectureTitle: "Working with Layers and Artboards in Illustrator",
             lectureDuration: 720,
-            lectureUrl:
-              "https://www.youtube.com/watch?v=C0t1bMhKZ0Q&list=PLgGbWId6zgaVUW5oKfqg6v-SihBo50dmB&index=3&pp=iAQB",
+            lectureUrl: "https://youtu.be/C0t1bMhKZ0Q",
             isPreviewFree: false,
             lectureOrder: 2,
           },
@@ -785,8 +759,7 @@ export const dummyCourses = [
             lectureId: "lecture3",
             lectureTitle: "10 Essential Design Tips for Illustrator",
             lectureDuration: 800,
-            lectureUrl:
-              "https://youtu.be/kp5ApIObAo4?list=PLgGbWId6zgaVUW5oKfqg6v-SihBo50dmB",
+            lectureUrl: "https://youtu.be/kp5ApIObAo4",
             isPreviewFree: true,
             lectureOrder: 1,
           },
@@ -794,8 +767,7 @@ export const dummyCourses = [
             lectureId: "lecture4",
             lectureTitle: "How to Make Gradients",
             lectureDuration: 850,
-            lectureUrl:
-              "https://youtu.be/DK5KaVyyHt4?list=PLgGbWId6zgaVUW5oKfqg6v-SihBo50dmB",
+            lectureUrl: "https://youtu.be/DK5KaVyyHt4",
             isPreviewFree: false,
             lectureOrder: 2,
           },
