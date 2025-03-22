@@ -46,7 +46,7 @@ import course1 from "./course1.jpg";
 import course2 from "./courser5.png";
 import course3 from "./course2.jpg";
 import linkedin_icon from "./linkedin_icon.png";
-import twitter_icon from "./twitter_icon 1.png";
+
 export const assets = {
   search_icon,
   sketch,
@@ -91,7 +91,6 @@ export const assets = {
   play_icon,
   blue_tick_icon,
   lesson_icon,
-  twitter_icon,
 };
 
 export const dummyEducatorData = {
