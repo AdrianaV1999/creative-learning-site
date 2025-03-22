@@ -1,9 +1,10 @@
 import React from "react";
 import logo from "../../assets/logo.png";
+import { assets } from "../../assets/assets";
 
 const Footer = () => {
   return (
-    <footer className="bg-purple-100 md:px-36 text-left w-full mt-10">
+    <footer className="bg-purple-100 md:px-47 text-left w-full mt-10">
       <div className="container mx-auto flex flex-col md:flex-row items-start px-8 md:px-0 justify-center gap-10 md:gap-36 py-10 border-b border-gray-300">
         <div className="flex flex-col md:items-start items-center w-full">
           <img

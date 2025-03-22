@@ -33,7 +33,7 @@ const Navbar = () => {
                     navigate("/educator");
                   }}
                 >
-                  {isEducator ? "Educator Daashboard" : "Become Educator"}
+                  {isEducator ? "Educator Dashboard" : "Become Educator"}
                 </button>
                 |<Link to="/my-enrollments">My Enrollments</Link>
               </>

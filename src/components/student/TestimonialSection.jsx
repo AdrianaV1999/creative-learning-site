@@ -11,7 +11,6 @@ const TestimonialSection = () => {
         Discover how our services have made a difference for our clients. Their
         feedback speaks for itself.
       </p>
-      {/* grid grid-cols-2 lg:grid-cols-4 px-4 md:px-0 md:my-16 my-10 gap-4 */}
 
       <div className="grid grid-cols-1 lg:grid-cols-4 md:grid-cols-2 px-5 md:px-0 gap-4 mt-14">
         {dummyTestimonial.map((testimonial, index) => (
