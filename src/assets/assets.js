@@ -46,6 +46,11 @@ import course1 from "./course1.jpg";
 import course2 from "./courser5.png";
 import course3 from "./course2.jpg";
 import linkedin_icon from "./linkedin_icon.png";
+import photo1 from "./photo1.png";
+import photo2 from "./photo2.png";
+import photo3 from "./photo3.png";
+import photo4 from "./photo4.png";
+import photo5 from "./photo5.png";
 
 export const assets = {
   search_icon,
@@ -91,6 +96,11 @@ export const assets = {
   play_icon,
   blue_tick_icon,
   lesson_icon,
+  photo1,
+  photo2,
+  photo3,
+  photo4,
+  photo5,
 };
 
 export const dummyEducatorData = {
@@ -146,45 +156,40 @@ export const dummyDashboardData = {
       courseTitle: "Introduction to Canva",
       student: {
         _id: "user_2qQlvXyr02B4Bq6hT0Gvaa5fT9V",
-        name: "Great Stack",
-        imageUrl:
-          "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18ycVFsdmFMSkw3ckIxNHZMU2o4ZURWNEtmR2IifQ",
+        name: "Anna Clark",
+        imageUrl: assets.photo1,
       },
     },
     {
       courseTitle: "Advanced Figma Mastery",
       student: {
         _id: "user_2qQlvXyr02B4Bq6hT0Gvaa5fT9V",
-        name: "Great Stack",
-        imageUrl:
-          "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18ycVFsdmFMSkw3ckIxNHZMU2o4ZURWNEtmR2IifQ",
+        name: "Mia Pelz",
+        imageUrl: assets.photo2,
       },
     },
     {
       courseTitle: "Sketch Basics",
       student: {
         _id: "user_2qQlvXyr02B4Bq6hT0Gvaa5fT9V",
-        name: "Great Stack",
-        imageUrl:
-          "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18ycVFsdmFMSkw3ckIxNHZMU2o4ZURWNEtmR2IifQ",
+        name: "David Franc",
+        imageUrl: assets.photo3,
       },
     },
     {
       courseTitle: "Introduction to Adobe",
       student: {
         _id: "user_2qQlvXyr02B4Bq6hT0Gvaa5fT9V",
-        name: "Great Stack",
-        imageUrl:
-          "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18ycVFsdmFMSkw3ckIxNHZMU2o4ZURWNEtmR2IifQ",
+        name: "Stella Mil",
+        imageUrl: assets.photo4,
       },
     },
     {
       courseTitle: "Learn Blender Like a Pro",
       student: {
         _id: "user_2qQlvXyr02B4Bq6hT0Gvaa5fT9V",
-        name: "Great Stack",
-        imageUrl:
-          "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18ycVFsdmFMSkw3ckIxNHZMU2o4ZURWNEtmR2IifQ",
+        name: "Paul Jersey",
+        imageUrl: assets.photo5,
       },
     },
   ],

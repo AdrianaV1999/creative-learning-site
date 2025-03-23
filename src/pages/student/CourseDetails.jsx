@@ -38,8 +38,8 @@ const CourseDetails = () => {
 
   return courseData ? (
     <>
-      <div className="absolute top-0 left-0 w-full h-[500px] -z-1 bg-gradient-to-b from-purple-100/70 ">
-        <div className="flex md:flex-row flex-col-reverse gap-10 relative items-start justify-between lg:px-0 px-8 md:pt-30 pt-20 text-left">
+      <div className=" absolute top-0 left-0 w-full h-[500px] -z-1 bg-gradient-to-b from-purple-100/70 ">
+        <div className="flex md:flex-row flex-col-reverse gap-8 md:gap-16 lg:gap-24 relative items-start justify-between lg:px-0 px-8 md:pt-30 pt-20 text-left">
           <div className="max-w-5xl z-10 text-gray-500 md:px-20 lg:px-47">
             <h1 className="text-2xl md:text-4xl font-semibold text-gray-800">
               {courseData.courseTitle}
@@ -172,7 +172,7 @@ const CourseDetails = () => {
             </div>
           </div>
           <div
-            className="z-10 rounded-t md:rounded-none overflow-hidden bg-white sm:min-w-[424px] max-w-[424px] mx-auto"
+            className="z-30 rounded-t md:rounded-none overflow-hidden bg-white min-w-0 max-w-[424px] mx-auto"
             style={{
               maxWidth: "424px",
               boxShadow: "0px 4px 15px 2px rgba(0,0,0,0.1)",
