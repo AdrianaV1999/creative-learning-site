@@ -200,41 +200,37 @@ export const dummyStudentEnrolled = [
   {
     student: {
       _id: "user_2qQlvXyr02B4Bq6hT0Gvaa5fT9V",
-      name: "GreatStack",
-      imageUrl:
-        "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18ycVFsdmFMSkw3ckIxNHZMU2o4ZURWNEtmR2IifQ",
+      name: "Anna Green",
+      imageUrl: assets.photo4,
     },
-    courseTitle: "Introduction to JavaScript",
+    courseTitle: "Introduction to Canva",
     purchaseDate: "2024-12-20T08:39:55.509Z",
   },
   {
     student: {
       _id: "user_2qQlvXyr02B4Bq6hT0Gvaa5fT9V",
-      name: "GreatStack",
-      imageUrl:
-        "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18ycVFsdmFMSkw3ckIxNHZMU2o4ZURWNEtmR2IifQ",
+      name: "Tara Mil",
+      imageUrl: assets.photo1,
     },
-    courseTitle: "Introduction to JavaScript",
+    courseTitle: "Sketch Basics",
     purchaseDate: "2024-12-20T08:59:49.964Z",
   },
   {
     student: {
       _id: "user_2qQlvXyr02B4Bq6hT0Gvaa5fT9V",
-      name: "GreatStack",
-      imageUrl:
-        "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18ycVFsdmFMSkw3ckIxNHZMU2o4ZURWNEtmR2IifQ",
+      name: "Maria Isabel",
+      imageUrl: assets.photo3,
     },
-    courseTitle: "Advanced Python Programming",
+    courseTitle: "Learn Blender Like a Pro",
     purchaseDate: "2024-12-20T11:03:42.931Z",
   },
   {
     student: {
       _id: "user_2qQlvXyr02B4Bq6hT0Gvaa5fT9V",
-      name: "GreatStack",
-      imageUrl:
-        "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18ycVFsdmFMSkw3ckIxNHZMU2o4ZURWNEtmR2IifQ",
+      name: "Paul Jersey",
+      imageUrl: assets.photo5,
     },
-    courseTitle: "Web Development Bootcamp",
+    courseTitle: "Introduction to Adobe",
     purchaseDate: "2024-12-20T11:04:48.798Z",
   },
 ];
