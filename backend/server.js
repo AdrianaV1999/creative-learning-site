@@ -6,11 +6,13 @@ import { clerkWebhooks } from "./controllers/webhooks.js";
 
 import educatorRouter from "./routes/educatorRoutes.js";
 import { clerkMiddleware } from "@clerk/express";
+import connectCloudinary from "./configs/cloudinary.js";
 
 const app = express();
 //connect to database
 
 await connectDB();
+await connectCloudinary();
 //middlewares
 app.use(cors());
 app.use(clerkMiddleware());
